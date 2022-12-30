@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(39, 131, 131);
+  }
+  
+  form{
+    
+    padding: 20px;
+    margin: 100px 600px 0px 500px;
+    font-size: large;
+    border: 5px solid black;
+    border-radius: 20px;
+  }
+  .div-form{
+    margin-left: 100px;
+  }
+  h1{
+    font-weight: bolder;
+    text-decoration: underline rgb(186, 88, 88);
+    color: rgb(221, 221, 132);
+    margin-left: 20%
+  }
+  
+  .lable-main{
+    font-weight: bold;
+    color: rgb(244, 235, 235);
+  }
+  input{
+    margin: 6px;
+  }
+  
+  .dropdown-div{
+    margin-top: 6px;
+    justify-content: center;
+    padding-left: 17%;
+  }
+  .lable1{
+    color:  rgb(6, 23, 107);
+    font-weight: bold;
+  }
+  #dropdown{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(67, 115, 115);
+    padding: 10px 20px 10px 20px;
+  }
+  button{
+    padding: 10px 50px 10px 50px ;
+    margin-left: 70px;
+    font-size:large;
+    font-weight: bold;
+    background-color: rgb(3, 97, 97);
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    color: white;
+  }
